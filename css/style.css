@@ -279,7 +279,15 @@
     width: 12px;
     height: 12px;
 }
-
+/* p.para{
+    color: #854fee;
+} */
+.social a i{
+    color: #000;
+}
+.copyrights{
+    color: aquamarine;
+}
 
 
 /* End About Me */ 
