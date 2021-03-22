@@ -3,6 +3,6 @@
 /* @font-face */ 
 
 @font-face{
-    font-family: "Roboto";
-    src: 'href="https://fonts.googleapis.com/css2?family=Roboto&display=swap';
+    font-family: "verdana";
+    src: '../fonts/verdana/verdana.ttf';
 }
